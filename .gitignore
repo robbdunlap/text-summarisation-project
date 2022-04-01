@@ -131,3 +131,6 @@ dmypy.json
 # Data
 data/
 raw_data/
+
+# VSCode
+*.code-workspace
